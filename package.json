@@ -55,7 +55,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "^12.1.1",
+    "@commitlint/config-conventional": "^17.6.7",
     "@react-native-community/eslint-config": "^2.0.0",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
